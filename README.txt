@@ -1,6 +1,7 @@
 Benjamin Sha
 bensha@umich.edu
 EECS 481 Homework 2 – readme.txt
+https://github.com/bsha/Android
 
 This is a replica of the game Connect4. 
 
@@ -16,8 +17,9 @@ The Specifications:
 3. You can click anywhere that is part of the grid and the lowest open cell in that column will be occupied by the current player ‘s piece. If the column is already full, nothing will happen.
 
 Checking Out and Building:
-1. The file is zipped, named as “BasicAppHW2_2.zip”. 
-2. Unzip this file.
-3. Import the project into eclipse
-4. Run the program as Android application.
+1. link to public repository: https://github.com/bsha/Android
+2. The file is zipped, named as “BasicAppHW2_2.zip”. 
+3. Unzip this file.
+4. Import the project into eclipse
+5. Run the program as Android application.
 Note: This should work on any device/emulator with API level greater than 16 – works for API level 18. However, if the images do not show up properly due to resizing and the proportions, then run on Nexus One (3.7”, 480 x 800). This should show up fine.
